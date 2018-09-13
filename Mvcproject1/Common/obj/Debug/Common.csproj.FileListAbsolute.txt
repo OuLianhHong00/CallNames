@@ -1,0 +1,11 @@
+D:\Asp.Net_ThreeModel\Mvcproject1\Common\bin\Debug\Common.dll
+D:\Asp.Net_ThreeModel\Mvcproject1\Common\bin\Debug\Common.pdb
+D:\Asp.Net_ThreeModel\Mvcproject1\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Asp.Net_ThreeModel\Mvcproject1\Common\obj\Debug\Common.dll
+D:\Asp.Net_ThreeModel\Mvcproject1\Common\obj\Debug\Common.pdb
+C:\Users\Rong\Desktop\Mvcproject\Mvcproject1\Common\bin\Debug\Common.dll
+C:\Users\Rong\Desktop\Mvcproject\Mvcproject1\Common\bin\Debug\Common.pdb
+C:\Users\Rong\Desktop\Mvcproject\Mvcproject1\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Rong\Desktop\Mvcproject\Mvcproject1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Rong\Desktop\Mvcproject\Mvcproject1\Common\obj\Debug\Common.dll
+C:\Users\Rong\Desktop\Mvcproject\Mvcproject1\Common\obj\Debug\Common.pdb
